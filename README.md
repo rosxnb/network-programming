@@ -16,3 +16,4 @@ Following are the list of CLI programs on MacOS for network inspection:
 - `odutil`
 - `dns-sd`
 - `/etc/inetd.conf`: configure console-only app into networked ones. [merged into launchd](https://en.wikipedia.org/wiki/Inetd#:~:text=As%20of%20version%20Mac%20OS,dedicated%20to%20a%20single%20function.)
+- `file --mime-type <filename>`: displays `Content-Type` value which can be used for HTTP header data
